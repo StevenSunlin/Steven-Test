@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is for test2.
+=======
+This is for test 2.
+>>>>>>> 6e3802c63c1483a922a4d3aee69ce70771b40c8f
 
 This is only for test
 
